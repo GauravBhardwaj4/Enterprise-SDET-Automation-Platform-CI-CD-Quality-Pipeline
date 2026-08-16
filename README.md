@@ -1,6 +1,6 @@
 # Enterprise SDET Automation Platform & Ephemeral CI/CD Quality Pipeline
 
-[![CI/CD Quality Gate](https://github.com/your-username/sdet-e2e-automation-platform/actions/workflows/sdet-pipeline.yml/badge.svg)](https://github.com/your-username/sdet-e2e-automation-platform/actions)
+[![CI/CD Quality Gate](https://github.com/gauravbhardwaj4/sdet-e2e-automation-platform/actions/workflows/sdet-pipeline.yml/badge.svg)](https://github.com/your-username/sdet-e2e-automation-platform/actions)
 [![Java](https://img.shields.io/badge/Java-17%2B-ED8B00?style=flat&logo=openjdk&logoColor=white)](https://www.oracle.com/java/)
 [![Selenium WebDriver](https://img.shields.io/badge/Selenium-4.x-43B02A?style=flat&logo=selenium&logoColor=white)](https://www.selenium.dev/)
 [![TestNG](https://img.shields.io/badge/TestNG-Parallel%20Execution-FF7F00?style=flat)](https://testng.org/)
