@@ -115,7 +115,7 @@ public class DriverFactory {
 
 Run tests locally:
 ```bash
-git clone https://github.com/your-username/sdet-e2e-automation-platform.git
+git clone https://github.com/gauravbhardwaj4/sdet-e2e-automation-platform.git
 cd sdet-e2e-automation-platform
 mvn clean test -DsuiteXmlFile=testng-parallel.xml -Dbrowser=chrome -Dheadless=true
 ```
