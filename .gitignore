@@ -1,0 +1,33 @@
+
+# IntelliJ IDEA files
+.idea/
+*.iml
+*.iws
+out/
+
+# Build output
+target/
+
+# Compiled Java files
+*.class
+
+# Logs
+*.log
+
+# Operating system files
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Temporary files
+*.tmp
+*.swp
+*~
+
+# Local environment and secrets
+.env
+.env.*
+!.env.example
+
+# Local IDE and tool settings
+.idea_modules/
